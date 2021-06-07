@@ -2,6 +2,3 @@
 - 🧙🏽‍♂️ Pós graduado em Gestão de Segurança da Informação e graduado em Ciência da computação.
 - 🌱 Estou interessado em aprender e desenvolver mais sobre o mundo DevOps e IaC.
 - 📺 Acompanho e sofro com jogos do Corinthinas e Seatlle Seahawks.
-- 🏌🏾‍♂️ Redes Sociais:
-  - 📬 Email: lucascarmo03@gmail.com e/ou lucascarmo10@hotmail.com
-  - 📱 Twitter: @LucasHsCarmo e/ou Instagram: lucashscarmo
